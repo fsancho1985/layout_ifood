@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Layout Ifood</string>
+    <string name="address">Rual Almeida filho, 1015</string>
+    <string name="retirar">Para Retirar</string>
+    <string name="entrega_gratis">Entrega Grátis</string>
+</resources>
